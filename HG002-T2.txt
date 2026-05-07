@@ -1,3 +1,0 @@
-sample	run_type	purity	ploidy	dipLogR	facets_version	cval	snp_nbhd	min_nhet	ndepth	genome	seed	flags	input_file	genome_doubled	fraction_cna	hypoploid	fraction_loh	lst	ntai	hrd_loh
-HN002-T2	purity	0.87	2.1	-0.035	0.6.1	1000	250	15	35	hg19	100		HN002-T2.snp_pileup.gz	FALSE	0.38	FALSE	0.17	0	0	0
-HN002-T2	hisens	0.87	2.1	-0.035	0.6.1	500	250	15	35	hg19	100		HN002-T2.snp_pileup.gz	FALSE	0.38	FALSE	0.17	0	0	0

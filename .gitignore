@@ -2,4 +2,10 @@
 *.vcf.gz
 *.bam
 *.png
-submission.tar.gz
+*.idx
+*.stats
+*.seg
+*.txt
+*.tar.gz
+__MACOSX/
+Archive-1.zip
